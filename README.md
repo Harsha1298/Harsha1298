@@ -15,7 +15,7 @@ I'm Harsha, a passionate programmer enthusiastic about mastering data structures
 ## Contact Information
 
 - **Email:** [sriharsha9821@gmail.com](mailto:sriharsha9821@gmail.com)
-- **LinkedIn:** [harsha-linkedin]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/harsha-vishnubhotla-a6400a13b/))
+- **LinkedIn:** [harsha-linkedin](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/harsha-vishnubhotla-a6400a13b/))
 
 Feel free to reach out if you have any questions, suggestions, or just want to connect!
 
